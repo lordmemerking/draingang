@@ -1,5 +1,6 @@
 import javax.swing.JOptionPane;
 // drain gang
+//draaaaaaaaaaaaaain gaaang
 // Övning 6.2 sid 131 i Java - steg för steg
 public class Bladee {
 
